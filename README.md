@@ -49,20 +49,17 @@ cd job-management-system
 ### 2. Setup the Backend
 
 ```bash
-
 cd backend
 npm install
 
 Run the backend:
 
 ```bash
-
 node server.js
 
 ### 3. Setup the Frontend
 
 ```bash
-
 cd my_app
 npm install
 npm run dev
