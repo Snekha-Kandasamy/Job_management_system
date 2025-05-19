@@ -52,7 +52,7 @@ cd job-management-system
 cd backend
 npm install
 
-Run the backend:
+### Run the backend:
 
 ```bash
 node server.js
